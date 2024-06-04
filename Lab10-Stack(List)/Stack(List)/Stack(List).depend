@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697704977 source:e:\cse 225\lab\lab10-stack(list)\stack(list)\main.cpp
+	<iostream>
+	"stacktype.h"
+
+1697700360 e:\cse 225\lab\lab10-stack(list)\stack(list)\stacktype.h
+	"stacktype.tpp"
+
+1697700360 e:\cse 225\lab\lab10-stack(list)\stack(list)\stacktype.tpp
+	<iostream>
+	"stacktype.h"
+
